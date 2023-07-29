@@ -1,0 +1,11 @@
+.navbar-ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem;
+
+}
+
+.navbar-item {
+    display: inline;
+    margin: 1rem;
+}
